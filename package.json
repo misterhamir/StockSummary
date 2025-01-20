@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "devDependencies": {
+    "openai": "^4.79.1",
+    "vite": "^6.0.7"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "clean": "vite clean"
+  },
+  "version": "1.0.0",
+  "description": "Quick start:",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
